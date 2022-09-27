@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/radio-con-react/static/css/main.e37e8c4a.css",
+    "main.js": "/radio-con-react/static/js/main.5b5246ef.js",
+    "static/js/787.28cb0dcd.chunk.js": "/radio-con-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/menuImg.jpg": "/radio-con-react/static/media/menuImg.c2ce1920f1b0f67c985e.jpg",
+    "static/media/headerImg.jpg": "/radio-con-react/static/media/headerImg.216675d178bc79239273.jpg",
+    "static/media/huaweistore.png": "/radio-con-react/static/media/huaweistore.432594bdd020673c16d0.png",
+    "static/media/radio.jpg": "/radio-con-react/static/media/radio.d0b62b9d86154bdaec46.jpg",
+    "static/media/amazonstore.jpg": "/radio-con-react/static/media/amazonstore.553de220b8069025553a.jpg",
+    "static/media/iconotwitter.jpg": "/radio-con-react/static/media/iconotwitter.8344deb336d60d9db4f4.jpg",
+    "static/media/iconoPlayStore.png": "/radio-con-react/static/media/iconoPlayStore.be5f794ce26995268470.png",
+    "index.html": "/radio-con-react/index.html",
+    "main.e37e8c4a.css.map": "/radio-con-react/static/css/main.e37e8c4a.css.map",
+    "main.5b5246ef.js.map": "/radio-con-react/static/js/main.5b5246ef.js.map",
+    "787.28cb0dcd.chunk.js.map": "/radio-con-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37e8c4a.css",
+    "static/js/main.5b5246ef.js"
+  ]
+}
